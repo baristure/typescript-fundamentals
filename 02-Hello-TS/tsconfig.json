@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // where to put the TS files
+    "target": "ES2017" ,// which level of JS support to target
+    "module": "CommonJS" // support generating ES2015 modules   
+  },
+  "include": ["src"] // which files to compile
+}
